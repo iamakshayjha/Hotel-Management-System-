@@ -1,6 +1,7 @@
 # Hotel-Management-System-
 It is a bare bone system capable of booking room in a effiecient and easy way
-Reserve a room
+
+-Reserve a room
 
 -To get the status of room (i.e. available or reserved)
 
